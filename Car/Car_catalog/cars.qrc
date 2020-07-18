@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Cars">
+        <file>Cars/Hammer.jpg</file>
+        <file>Cars/Mitsubishi.jpg</file>
+        <file>Cars/Tesla.jpg</file>
+        <file>Cars/Volvo.jpg</file>
+        <file>Cars/HummerLabel.png</file>
+        <file>Cars/MitsubishiLabel.png</file>
+        <file>Cars/TeslaLabel.png</file>
+        <file>Cars/VolvoLabel.png</file>
+    </qresource>
+</RCC>
